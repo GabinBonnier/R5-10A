@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PixelHub.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21bca578434ae774c0763f8bc04e0e6ac0ce1266")]
 [assembly: System.Reflection.AssemblyProductAttribute("PixelHub.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PixelHub.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
